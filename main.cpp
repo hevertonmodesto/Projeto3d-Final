@@ -38,7 +38,7 @@ int main(){
 
 
     //Arquivo txt
-    fin.open("D:/Users/Heverton/Projeto3d-final/CachorroMinecraft.txt");
+    fin.open("D:/Users/Heverton/Projeto3d-final/Cachorro/CachorroMinecraft.txt");
 
     if(!fin.is_open()){
 
@@ -136,7 +136,7 @@ int main(){
 
 
     //Arquivo OFF
-    t.writeOFF((char*)"D:/Users/Heverton/Projeto3d-final/CachorroMinecraft.txt");
+    t.writeOFF((char*)"file:///D:/Users/Heverton/Projeto3d-final/Cachorro");
 
 
 
