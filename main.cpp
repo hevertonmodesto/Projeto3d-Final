@@ -136,7 +136,7 @@ int main(){
 
 
     //Arquivo OFF
-    t.writeOFF((char*)"file:///D:/Users/Heverton/Projeto3d-final/Cachorro");
+    t.writeOFF((char*)"D:/Users/Heverton/Projeto3d-final/Cachorro/CachorroMinecraft.txt");
 
 
 
