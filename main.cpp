@@ -38,7 +38,7 @@ int main(){
 
 
     //Arquivo txt
-    fin.open("C:/Users/yanta/ECT-UFRN_parte2/escultura_parte2/figuras.txt");
+    fin.open("D:/Users/Heverton/Projeto3d-final/CachorroMinecraft.txt");
 
     if(!fin.is_open()){
 
@@ -136,7 +136,7 @@ int main(){
 
 
     //Arquivo OFF
-    t.writeOFF((char*)"C:/Users/yanta/ECT-UFRN_parte2/escultura_parte2/figuras.off");
+    t.writeOFF((char*)"D:/Users/Heverton/Projeto3d-final/CachorroMinecraft.txt");
 
 
 
